@@ -1,0 +1,1 @@
+"""Plugins module - extensible functionality."""
